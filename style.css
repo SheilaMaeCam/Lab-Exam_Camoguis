@@ -1,0 +1,30 @@
+*{
+    margin: 12px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.h1{
+    position: relative
+    text-align: center;
+}
+.img{
+    position: absolute;
+}
+.content{
+    position: relative;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.box{
+    background-color: blueviolet;
+    margin-top: 55px;
+    margin-left: 100px;
+    margin-right: 250px;
+    box-shadow: 12px 12px;
+    width: auto;
+}
